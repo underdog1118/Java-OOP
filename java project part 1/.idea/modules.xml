@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-app/api-app.iml" filepath="$PROJECT_DIR$/api-app/api-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-appsad/array-appsad.iml" filepath="$PROJECT_DIR$/array-appsad/array-appsad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-app/basic-app.iml" filepath="$PROJECT_DIR$/basic-app/basic-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flow-controal-app/flow-controal-app.iml" filepath="$PROJECT_DIR$/flow-controal-app/flow-controal-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project.iml" filepath="$PROJECT_DIR$/java project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method-app/method-app.iml" filepath="$PROJECT_DIR$/method-app/method-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app/oop-app.iml" filepath="$PROJECT_DIR$/oop-app/oop-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-pro-app/oop-pro-app.iml" filepath="$PROJECT_DIR$/oop-pro-app/oop-pro-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-app/practice-app.iml" filepath="$PROJECT_DIR$/practice-app/practice-app.iml" />
+    </modules>
+  </component>
+</project>

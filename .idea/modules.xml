@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/api-app/api-app.iml" filepath="$PROJECT_DIR$/java project part 1/api-app/api-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/array-appsad/array-appsad.iml" filepath="$PROJECT_DIR$/java project part 1/array-appsad/array-appsad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/basic-app/basic-app.iml" filepath="$PROJECT_DIR$/java project part 1/basic-app/basic-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 2/day1-oop-demo/day1-oop-demo.iml" filepath="$PROJECT_DIR$/java project part 2/day1-oop-demo/day1-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 2/day2-oop-demo/day2-oop-demo.iml" filepath="$PROJECT_DIR$/java project part 2/day2-oop-demo/day2-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 2/day3-oop-demo/day3-oop-demo.iml" filepath="$PROJECT_DIR$/java project part 2/day3-oop-demo/day3-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 2/day4-oop-demo/day4-oop-demo.iml" filepath="$PROJECT_DIR$/java project part 2/day4-oop-demo/day4-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/flow-controal-app/flow-controal-app.iml" filepath="$PROJECT_DIR$/java project part 1/flow-controal-app/flow-controal-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/hello-app/hello-app.iml" filepath="$PROJECT_DIR$/java project part 1/hello-app/hello-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java b站 projects.iml" filepath="$PROJECT_DIR$/.idea/java b站 projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/method-app/method-app.iml" filepath="$PROJECT_DIR$/java project part 1/method-app/method-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/oop-app/oop-app.iml" filepath="$PROJECT_DIR$/java project part 1/oop-app/oop-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java project part 1/practice-app/practice-app.iml" filepath="$PROJECT_DIR$/java project part 1/practice-app/practice-app.iml" />
+    </modules>
+  </component>
+</project>
